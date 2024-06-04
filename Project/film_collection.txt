@@ -1,0 +1,80 @@
+Title: Inception
+Director: Christopher Nolan
+Year: 2010
+Genre: Sci-Fi
+Status: Unwatched
+Rating: 8.8
+Description: A thief who steals corporate...
+Reviews: 
+Comments: 
+
+Title: The Dark Knight
+Director: Christopher Nolan
+Year: 2008
+Genre: Action
+Status: Unwatched
+Rating: 9.0
+Description: When the menace known as the...
+Reviews: 
+Comments: 
+
+Title: Interstellar
+Director: Christopher Nolan
+Year: 2014
+Genre: Sci-Fi
+Status: Watched
+Rating: 8.6
+Description: Earth's future has been riddled...
+Reviews: 
+Comments: 
+
+Title: The Shawshank Redemption
+Director: Frank Darabont
+Year: 1994
+Genre: Drama
+Status: Watched
+Rating: 9.3
+Description: Two imprisoned...
+Reviews: 
+Comments: 
+
+Title: The Godfather
+Director: Francis Ford Coppola
+Year: 1972
+Genre: Crime
+Status: Watched
+Rating: 9.2
+Description: The aging patriarch of an...
+Reviews: 
+Comments: 
+
+Title: The Godfather: Part II
+Director: Francis Ford Coppola
+Year: 1974
+Genre: Crime
+Status: Unwatched
+Rating: 9.0
+Description: The early life and career of...
+Reviews: 
+Comments: 
+
+Title: It
+Director: Andy Muschietti
+Year: 2017
+Genre: Horror
+Status: Unwatched
+Rating: 7.3
+Description: In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.
+Reviews: 
+Comments: 
+
+Title: Dune
+Director: Denis Villeneuve
+Year: 2021
+Genre: Sci-Fi
+Status: Unwatched
+Rating: 8.3
+Description: Feature adaptation of Frank Herbert's science fiction novel, about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy.
+Reviews: 
+Comments: 
+
