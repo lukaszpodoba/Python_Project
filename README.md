@@ -8,8 +8,9 @@ Watchlist is a desktop application built in Python for managing a personal movie
   - **Tkinter**: Used for creating the graphical user interface (GUI), including windows, buttons, text fields, and more.
 - **Object-Oriented Architecture**:
   - The project leverages classes, encapsulation, and property decorators to maintain clean, modular code.
- 
-##Main Modules
+
+
+## Main Modules
 - **Film (Film.py)**:
   - Represents a single movie with attributes like title, director, release year, genre, watch status, rating, and description.
   - Maintains lists for reviews and comments (each with a timestamp), showcasing encapsulation using `@property` and setters.
@@ -23,6 +24,7 @@ Watchlist is a desktop application built in Python for managing a personal movie
   - Facilitates movie management through additional pop-up windows for adding, editing, and deleting films.
   - Supports adding reviews (with a rating slider) and comments, and includes functionality to clear these lists.
   - Features include generating statistics and exporting collection data to a text file (`film_collection.txt`).
+
  
 ## Functionalities & Design
 - **Separation of Concerns**: The application separates data management (handled by the Film and CollectionManager classes) from the GUI logic, which simplifies maintenance and future enhancements.
